@@ -1,0 +1,16 @@
+PROJECT TITLE: DIGITAL DOCUMENT MANAGEMENT SYSTEM
+PROJECT BY: SONIA YAPARALA
+
+DESCRIPTION:
+Store and manage digital documents in an organized manner. Users can upload documents, categorize them, search documents, download files, and manage document access.
+
+TECHNOLOGIES:
+HTML, CSS, JavaScript, Express.js, MySQL
+
+DATABASE TABLES:
+1. users
+2. categories
+3. document
+4. document_access
+
+Run instructions are available in README.md.
